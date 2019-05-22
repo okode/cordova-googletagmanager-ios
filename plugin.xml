@@ -43,7 +43,7 @@
             </feature>
         </config-file>
 		
-		<framework src="GoogleTagManager" type="podspec" spec="7.1.2" /> 
+        <framework src="GoogleTagManager" type="podspec" spec="7.1.0" />
 
         <preference name="CONFIG_FILE_NAME" />
         <hook type="after_prepare" src="hooks/copyGtmContainerConfig.js" />
